@@ -26,4 +26,4 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br).
 - `npm start`
 
 ### Web
-- [Clique aqui]()
+- [Clique aqui](https://calculadora-de-imc-nine.vercel.app/)
