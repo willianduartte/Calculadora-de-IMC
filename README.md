@@ -9,7 +9,7 @@
     <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="./src/assets/Calculadora de IMC (IMG).png"/>
+<img src="./src/assets/IMC.gif"/>
 
 <p align='center'>
     <a href="https://calculadora-de-imc-nine.vercel.app/" target="_blank">Clique aqui para Testar o app</a>
